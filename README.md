@@ -6,6 +6,16 @@ You are an ML Engineer. You have been asked to create a machine learning model t
 ### Dataset
 ml_live_coding_data.json.gz
 
+This is a very small and slightly transformed sample of data from https://amazon-reviews-2023.github.io/.
+```
+@article{hou2024bridging,
+  title={Bridging Language and Items for Retrieval and Recommendation},
+  author={Hou, Yupeng and Li, Jiacheng and He, Zhankui and Yan, An and Chen, Xiusi and McAuley, Julian},
+  journal={arXiv preprint arXiv:2403.03952},
+  year={2024}
+}
+```
+
 ### Sample
 ```
 [
